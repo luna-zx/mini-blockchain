@@ -49,4 +49,4 @@ npm start
 ## 📃 Testing
 
 After starting the app,
-go to API docs (swagger) at: `http://localhost:<YOUR_API_PORT>`
+go to API docs (swagger) at: `http://localhost:<YOUR_API_PORT>/swagger`
